@@ -7,4 +7,4 @@ This is a line that I've added on the GitHub page!
 
 I've had a lot of coffee...
 
-Conflict Resolution - A More Advanced Course
+Conflict Resolution - Winning the conflicts
